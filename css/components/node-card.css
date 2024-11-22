@@ -30,3 +30,11 @@
     background-color: #CEB02A;
     border: 5px solid black;
 }
+
+.node-card.-clean .logo{
+    padding: 0px;
+}
+
+.node-card.-first .logo{
+    background-color: #F25A70;
+}
