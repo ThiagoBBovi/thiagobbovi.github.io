@@ -17,3 +17,11 @@
     background-color: #f37e90;
     transform: scale(1.03);
 }
+
+.main-button.-submit{
+    width: 100%;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 40px;
+    font-family: inherit;
+}
