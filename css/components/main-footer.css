@@ -2,8 +2,8 @@
     display: flex;
     background-color: black;
     justify-content: center;
-    padding-top: 28px;
-    padding-bottom: 28px;
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
 
 .main-footer .action{
