@@ -11,6 +11,7 @@
     font-size: 20px;
     color: white;
     text-decoration: none;
+    cursor: pointer;
 }
 
 .main-button:hover{
@@ -24,4 +25,8 @@
     font-weight: 300;
     line-height: 40px;
     font-family: inherit;
+}
+
+.main-button.-submit:hover{
+    transform: scale(1.01);
 }
